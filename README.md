@@ -55,7 +55,7 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
 > | [태현수](https://github.com/xohyver/) |   Software  |
-> |   [곽주은]    |   Hardware  |
+> |   곽주은    |   Hardware  |
 
 
 **[프로젝트 개요]**

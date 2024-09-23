@@ -33,9 +33,12 @@
 
 **[역할] : AI 개발자**
 - 시스템 설계 및 구현 :
-Opencv 이용 실시간 웹캠 시스템 구축, Pygame 이용 안내방송 송출 설계 
+병렬 Thread 및 Opencv 이용 실시간 웹캠 시스템 구축, Pygame 이용 안내방송 송출 설계 
 - 데이터 수집 및 모델 학습 :
 모델 학습을 위한 이미지 수집 및 Yolov5 커스텀 트레이닝
+
+**[주요 라이브러리]**
+-Opencv, Yolov5, Pygame, Torch, Thread
 
 **🎥시연영상**
 https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
@@ -61,6 +64,11 @@ Yolov5를 활용, 적은 이미지로 99.8%의 val_accuracy를 뽑아냄
 인식된 객체의 클래스에 따라 각 케이스 별로 모터가 동작하도록 함
 - 카메라 각도 결정 :
 카메라 위치 및 각도 조절을 통해 기존 80%의 정확도를 95%까지 향상시킴
+- 연산 최적화
+time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
+
+**[주요 라이브러리]**
+-Opencv, Yolov5, Tensorflow, Time, Serial, Numpy
 
 **🎥시연영상**
 유튜브 링크달기

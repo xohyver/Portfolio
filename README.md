@@ -40,11 +40,12 @@
 - 데이터 수집 및 모델 학습 :
 모델 학습을 위한 이미지 수집 및 Yolov5 커스텀 트레이닝
 
-**[사용 기술술]**
+**[사용 기술]**
 > Python3  
 > Opencv  
 > Yolov5  
 > Torch
+
 
 **🎥시연영상**
 https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
@@ -84,6 +85,8 @@ time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
 > Opencv  
 > Yolov5  
 > Tensorflow  
+
+
 
 **🎥시연영상**
 유튜브 링크달기

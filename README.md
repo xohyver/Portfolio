@@ -20,7 +20,7 @@
 
 ## 💻 Project
 
-### S.C.C(Subway Crowd Control)
+### S.C.C(Subway Crowd Control AI)
 '23.05.30 - '23.06.28, 개발인원 1명
 
 **[프로젝트 개요]**
@@ -40,6 +40,9 @@ https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
 
 **GitHub:**
 https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
+
+
+
 
 
 ### 자동 분류 쓰레기통

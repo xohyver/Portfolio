@@ -51,7 +51,7 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 
 ### 자동 분류 쓰레기통
 '24.07.05 - '24.09.30
-개발인원
+**[개발인원]**
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
 > | [태현수](https://github.com/xohyver/) |   Software  |

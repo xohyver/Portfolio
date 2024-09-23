@@ -41,6 +41,9 @@
 모델 학습을 위한 이미지 수집 및 Yolov5 커스텀 트레이닝
 
 # 주요 라이브러리
+> python3  
+> Django  
+> Django-rest-framwork
 > Python3
 > Opencv
 > Yolov5

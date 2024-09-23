@@ -3,7 +3,7 @@
 
 ## 🛠️ Skills
 **Python**  
-- Python을 활용한 컴퓨터 비전 프로젝트 경험 有
+- Python을 활용한 컴퓨터 비전 프로젝트 경험 多
 - 백준 Online Judge Silver 5 티어
 
 **CNN**

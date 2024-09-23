@@ -40,13 +40,11 @@
 - 데이터 수집 및 모델 학습 :
 모델 학습을 위한 이미지 수집 및 Yolov5 커스텀 트레이닝
 
-# 주요 라이브러리
+**[사용 기술술]**
 > Python3  
 > Opencv  
 > Yolov5  
-> Pygame  
-> Torch>  
-> Thread  
+> Torch
 
 **🎥시연영상**
 https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
@@ -81,13 +79,11 @@ Yolov5를 활용, 적은 이미지로 99.8%의 val_accuracy를 뽑아냄
 - 연산 최적화
 time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
 
-**[주요 라이브러리]**
+**[사용 기술]**
+> Python3  
 > Opencv  
 > Yolov5  
 > Tensorflow  
-> Time  
-> Serial  
-> Numpy  
 
 **🎥시연영상**
 유튜브 링크달기

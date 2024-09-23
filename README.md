@@ -108,7 +108,7 @@ time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
 
 ### 📺 See Also
 
-**Github.**  [https://github.com/xohyver/)
+**GitHub.**  [https://github.com/xohyver/)
 
 
 

@@ -18,6 +18,8 @@
 - Opencv를 통해 카메라 화면에 인공지능을 적용시킬 수 있음
 
 
+&nbsp;  
+
 ## 💻 Project
 
 ### S.C.C(Subway Crowd Control AI)
@@ -42,8 +44,7 @@ https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
 https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 
 
-
-
+&nbsp;  
 
 ### 자동 분류 쓰레기통
 '24.07.05 - '24.09.30, 개발인원 2명

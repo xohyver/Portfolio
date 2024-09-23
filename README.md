@@ -54,8 +54,8 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 개발인원
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
-> | [김동우](https://github.com/kimphysicsman) |   Software  |
-> |   [김진수](https://github.com/creamone)    |   Hardware  |
+> | [태현수](https://github.com/xohyver/) |   Software  |
+> |   [곽주은]    |   Hardware  |
 
 
 **[프로젝트 개요]**

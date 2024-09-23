@@ -50,7 +50,13 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 &nbsp;  
 
 ### 자동 분류 쓰레기통
-'24.07.05 - '24.09.30, 개발인원 2명
+'24.07.05 - '24.09.30
+개발인원
+> |                    Name                    |  Position   |
+> | :----------------------------------------: | :---------: |
+> | [김동우](https://github.com/kimphysicsman) |   Software  |
+> |   [김진수](https://github.com/creamone)    |   Hardware  |
+
 
 **[프로젝트 개요]**
 - 스스로 쓰레기를 분류하는 똑똑한 쓰레기통입니다.

@@ -97,16 +97,16 @@ time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
 
 &nbsp;  
 
-### 📙 Education
+## 📙 Education
 - 양곡 고등학교 재학 / '22.03.04 -
 
 &nbsp;  
 
-### 💳 Certification
+## 💳 Certification
 
 &nbsp;
 
-### 📺 See Also
+## 📺 See Also
 
 **GitHub.**  [https://github.com/xohyver/)
 

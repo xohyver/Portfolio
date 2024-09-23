@@ -36,10 +36,10 @@ Opencv 이용 실시간 웹캠 시스템 구축, Pygame 이용 안내방송 송�
 모델 학습을 위한 이미지 수집 및 Yolov5 커스텀 트레이닝
 
 **🎥시연영상**
-유튜브 링크달기
+https://youtu.be/7izh1vydHPA?si=bGfsZP107jjBp1-M
 
 **GitHub:**
-깃허브 링크
+https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 
 
 ### 자동 분류 쓰레기통

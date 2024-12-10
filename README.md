@@ -75,24 +75,26 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 Yolov5를 활용, 적은 이미지로 99.8%의 val_accuracy를 뽑아냄
 - 코드 논리 구성 :
 인식된 객체의 클래스에 따라 각 케이스 별로 모터가 동작하도록 함
-- 카메라 각도 결정 :
-카메라 위치 및 각도 조절을 통해 기존 80%의 정확도를 95%까지 향상시킴
+- 모터 명령 충돌 방지 :
+time 라이브러리와 if문을 통해 모터 명령이 충돌하는 상황 방지지
 - 연산 최적화
-time 이용하여 5초 간격의 프레임 캡쳐 실행하도록 최적화
+time 이용하여 10초 간격으로 프레임 캡쳐 실행하도록 최적화
 
 **[사용 기술]**
 > Python3  
 > Opencv  
 > Yolov5  
-> Tensorflow  
+> Tensorflow
+> Serial
+> Arduino
 
 
 
 **🎥시연영상**
-유튜브 링크달기
+[https://youtu.be/7izh1vydHPA?si=Bczb0R-mfdPYqIDC](https://youtu.be/nBscDK_WJRA)
 
 **GitHub:**
-깃허브 링크
+https://github.com/xohyver/Autosorter
 
 
 &nbsp;  

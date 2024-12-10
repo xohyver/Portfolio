@@ -72,7 +72,7 @@ https://github.com/xohyver/Subway_Crowd_Control_AI-S.C.C-.git
 
 **[역할] : AI 개발자 및 구조물 제작**
 - 모델 학습 :
-Yolov5를 활용, 적은 이미지로 99.8%의 val_accuracy를 뽑아냄
+Yolov5를 활용, 적은 이미지로 0.986의 val_accuracy를 뽑아냄
 - 코드 논리 구성 :
 인식된 객체의 클래스에 따라 각 케이스 별로 모터가 동작하도록 함
 - 모터 명령 충돌 방지 :

@@ -100,7 +100,8 @@ https://github.com/xohyver/Autosorter
 &nbsp;  
 
 ## 📙 Education
-- 양곡 고등학교 재학 / '22.03.04 -
+- 양곡 고등학교 졸업
+- 숭실 대학교 재학 / '25.03.04 -
 
 &nbsp;  
 

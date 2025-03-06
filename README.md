@@ -15,7 +15,7 @@
 - Yolov5를 활용한 Object Detection, Classification 경험 多
 
 **Opencv**
-- Opencv를 통해 카메라 화면에 모델델을 적용시킬 수 있음
+- Opencv를 통해 카메라 화면에 모델을 적용시킬 수 있음
 
 
 &nbsp;  

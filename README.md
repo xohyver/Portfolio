@@ -1,23 +1,6 @@
 # 태현수
 인공지능 개발자 지망 학생
 
-## 🛠️ Skills
-**Python**  
-- Python을 활용한 컴퓨터 비전 프로젝트 경험 多
-- 백준 Online Judge silver 2
-
-**CNN**
-- CNN을 활용한 프로젝트 경험 有
-- 신경망을 설계하여 모델을 학습시킬 수 있음
-- CNN의 동작 원리와 구성 요소를 이해하고 있음
-
-**Yolov5**
-- Yolov5를 활용한 Object Detection, Classification 경험 多
-
-**Opencv**
-- Opencv를 통해 카메라 화면에 모델을 적용시킬 수 있음
-
-
 &nbsp;  
 
 ## 💻 Project
